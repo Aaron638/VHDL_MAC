@@ -1,0 +1,520 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Aaron/Desktop/VHDL_MAC
+T_opt
+!s110 1605489638
+VUHU60]=>Vc9PP]zVfOU`^1
+04 13 8 work multiplier_tb behavior 1
+=1-408d5c9b3326-5fb1d3e6-cb-b04
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+R0
+Eand2g
+Z1 w1604956941
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z4 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/and2g.vhd
+Z5 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/and2g.vhd
+l0
+L6
+V]f1<G_d?EVd3bW]j]B6M>1
+!s100 S>ZMCXSe^3O;[8zE^:Se^0
+Z6 OL;C;10.7;67
+32
+Z7 !s110 1605489039
+!i10b 1
+Z8 !s108 1605489039.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/and2g.vhd|
+Z10 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/and2g.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Aandlogic
+R2
+R3
+DEx4 work 5 and2g 0 22 ]f1<G_d?EVd3bW]j]B6M>1
+l18
+L16
+V49=<RKTi4JK]Q1>U@:[EI2
+!s100 XKcb?=[amN=@ED>U`Ni9c2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ecarry_select_adder
+Z13 w1603747481
+R2
+R3
+R0
+Z14 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder.vhd
+Z15 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder.vhd
+l0
+L4
+VRZ5@AV^8oRQliR[Tj65mZ0
+!s100 P5Tc;T`@c[9nc1KSSZ5F:1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder.vhd|
+Z17 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 18 carry_select_adder 0 22 RZ5@AV^8oRQliR[Tj65mZ0
+l30
+L15
+VWm27kK9KXLBd]FHX@Of5@0
+!s100 MBE<N?S`6i?Cj@NMZ_gEC0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 0
+R11
+R12
+Ecarry_select_adder_block
+Z18 w1603747462
+R2
+R3
+R0
+Z19 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder_block.vhd
+Z20 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder_block.vhd
+l0
+L4
+Vd;Sk[U[JC5PQB27PhBMjb0
+!s100 fMNKTQL?R3PS]jhIJbiz32
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder_block.vhd|
+Z22 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/carry_select_adder_block.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 24 carry_select_adder_block 0 22 d;Sk[U[JC5PQB27PhBMjb0
+l41
+L15
+VXgM;h8Y@agPhnOZ[Yd:W=1
+!s100 ^;O^bmGoG<Lam_A<5`DI`0
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 0
+R11
+R12
+Efulladder
+Z23 w1605488394
+R2
+R3
+R0
+Z24 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/fullAdder.vhd
+Z25 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/fullAdder.vhd
+l0
+L4
+VW5m;hhgV>M^<06bL847IS1
+!s100 ]WH1YVGnOWNd0UE@Lijca3
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/fullAdder.vhd|
+Z27 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/fullAdder.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 9 fulladder 0 22 W5m;hhgV>M^<06bL847IS1
+l17
+L15
+VTOIcaCIn0XD3aQboMP@Y:3
+!s100 eFhQ_gUHhj[U^G5>8PJeY3
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 0
+R11
+R12
+Ehalfadder
+Z28 w1603149586
+R2
+R3
+R0
+Z29 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/halfAdder.vhd
+Z30 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/halfAdder.vhd
+l0
+L4
+VF0Kl:V8bIZE_DUUE3C]QU3
+!s100 2C1iFbofP]Aj6Jac44oc83
+R6
+32
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/halfAdder.vhd|
+Z32 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/halfAdder.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 9 halfadder 0 22 F0Kl:V8bIZE_DUUE3C]QU3
+l15
+L13
+V0WBOaU8hKGM5`1geb1;JV0
+!s100 VUWbccS;_;?:?P<NG@3?b1
+R6
+32
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 0
+R11
+R12
+Emult_head
+Z33 w1605484607
+R2
+R3
+R0
+Z34 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head.vhd
+Z35 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head.vhd
+l0
+L7
+V9AJMUcN87]fLmTLbd:jb22
+!s100 ?odlN`2C;>h?EEbKYke9b3
+R6
+32
+R7
+!i10b 1
+R8
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head.vhd|
+Z37 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 9 mult_head 0 22 9AJMUcN87]fLmTLbd:jb22
+l56
+L19
+V>g0l>OK1Sa5@<56hZ7H_82
+!s100 m4B=`YB7LHDHmUhQkZGIG2
+R6
+32
+R7
+!i10b 1
+R8
+R36
+R37
+!i113 0
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 9 mult_head 0 22 o4RLdSeIM=BAa0b0>Hgi]2
+l55
+L19
+V0J`1^K=LC6if4;kk2JMBg1
+!s100 e2J<Enf]JdF[SI[g=S_W83
+R6
+32
+!s110 1605482805
+!i10b 1
+!s108 1605482805.000000
+R36
+R37
+!i113 0
+R11
+R12
+w1605482782
+Emult_layer
+Z38 w1605489028
+R2
+R3
+R0
+Z39 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer.vhd
+Z40 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer.vhd
+l0
+L4
+Ve=[?m5R_ikIS_?zEcbb;<0
+!s100 fk>e^lZR5oEhinD9;ngcX0
+R6
+32
+Z41 !s110 1605489040
+!i10b 1
+Z42 !s108 1605489040.000000
+Z43 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer.vhd|
+Z44 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 10 mult_layer 0 22 e=[?m5R_ikIS_?zEcbb;<0
+l50
+L17
+V>?QQmAb=L`;eBZf^U?T;H0
+!s100 QiBnoa4O6d7GQAn66Z3l01
+R6
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 10 mult_layer 0 22 Az:bYc]<W=jj2jJ32SiGK2
+l50
+L17
+VmM5W1MC4AAP0eg8_R?:;Y1
+!s100 Rl0kh?`Q;A7W9>KQXe6l;1
+R6
+32
+!s110 1605483976
+!i10b 1
+!s108 1605483976.000000
+R43
+R44
+!i113 0
+R11
+R12
+w1605483974
+Emult_layer_tb
+w1605487907
+Z45 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+R0
+8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer_TB.vhd
+FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer_TB.vhd
+l0
+L5
+V5QjeVEEgQZgOQbH8WSPM_1
+!s100 cC6LMT;A9T`aQ`Sd0[4Jb1
+R6
+32
+R41
+!i10b 1
+R42
+!s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer_TB.vhd|
+!s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_layer_TB.vhd|
+!i113 0
+R11
+R12
+Abehavior
+w1605488292
+R45
+R2
+R3
+DEx4 work 13 mult_layer_tb 0 22 oR6>PI0S1>ZnC_fbz12dG0
+l37
+L12
+V]oLRHjnY@YT7YB[Do?L0z2
+!s100 9jIM_d2ONN<Idk]3JzOb92
+R6
+32
+R41
+!i10b 1
+R42
+!s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head_TB.vhd|
+!s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head_TB.vhd|
+!i113 0
+R11
+R12
+FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head_TB.vhd
+8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/mult_head_TB.vhd
+Emultiplier
+Z46 w1605489626
+R2
+R3
+R0
+Z47 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier.vhd
+Z48 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier.vhd
+l0
+L6
+VfD@Y:@E[_<Dbog_50JVfW1
+!s100 Kh>DS]K=Kchgf38<43B<[3
+R6
+32
+Z49 !s110 1605489635
+!i10b 1
+Z50 !s108 1605489634.000000
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier.vhd|
+Z52 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 10 multiplier 0 22 fD@Y:@E[_<Dbog_50JVfW1
+l53
+L20
+Vz3ZS?m^[8em1T=<Eb6]>W2
+!s100 A0_U>6T1e=KjOJ9FeDWH22
+R6
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 0
+R11
+R12
+Emultiplier_tb
+Z53 w1605486366
+R45
+R2
+R3
+R0
+Z54 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier_TB.vhd
+Z55 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier_TB.vhd
+l0
+L5
+VT?4m_fcmnCJj7E=@^PLi=1
+!s100 SNSZmBDf:Db;aR3llKNSd3
+R6
+32
+R49
+!i10b 1
+Z56 !s108 1605489635.000000
+Z57 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier_TB.vhd|
+Z58 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/multiplier_TB.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R45
+R2
+R3
+DEx4 work 13 multiplier_tb 0 22 T?4m_fcmnCJj7E=@^PLi=1
+l33
+L13
+VMS6nRoMH`UBS<XOZ:Kc3f3
+!s100 ;8Ca2GK1_RSa]HAI3[WSl1
+R6
+32
+R49
+!i10b 1
+R56
+R57
+R58
+!i113 0
+R11
+R12
+Eufp8_mac
+Z59 w1605495043
+R45
+Z60 DPx4 work 7 vec9arr 0 22 AO;PS1Ra6XVN=UcH1XMMM1
+R2
+R3
+R0
+Z61 8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/ufp8_mac.vhd
+Z62 FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/ufp8_mac.vhd
+l0
+L12
+Vl@6V_DSBgEMHS[SH[1n163
+!s100 _O`MoRI4MO@fkB0L]gOml3
+R6
+32
+Z63 !s110 1605495045
+!i10b 1
+Z64 !s108 1605495045.000000
+Z65 !s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/ufp8_mac.vhd|
+!s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/ufp8_mac.vhd|
+!i113 0
+R11
+R12
+Astructure
+R45
+R60
+R2
+R3
+DEx4 work 8 ufp8_mac 0 22 l@6V_DSBgEMHS[SH[1n163
+l50
+L20
+VMoQZCMJY8V25EQ]9fk?^92
+!s100 EHYIbf2=KBV^Pd7jXLm9X0
+R6
+32
+R63
+!i10b 1
+R64
+R65
+Z66 !s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/ufp8_mac.vhd|
+!i113 0
+R11
+R12
+Pvec9arr
+R45
+R2
+R3
+w1605494390
+R0
+8C:/Users/Aaron/Desktop/VHDL_MAC/vhd/vec9Arr.vhd
+FC:/Users/Aaron/Desktop/VHDL_MAC/vhd/vec9Arr.vhd
+l0
+L6
+VAO;PS1Ra6XVN=UcH1XMMM1
+!s100 WK@b42G0cXVK0W7P2@h7U3
+R6
+32
+!s110 1605494489
+!i10b 1
+!s108 1605494489.000000
+!s90 -reportprogress|300|-work|work|C:/Users/Aaron/Desktop/VHDL_MAC/vhd/vec9Arr.vhd|
+!s107 C:/Users/Aaron/Desktop/VHDL_MAC/vhd/vec9Arr.vhd|
+!i113 0
+R11
+R12

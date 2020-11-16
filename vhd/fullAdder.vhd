@@ -16,11 +16,7 @@ architecture dataflow of fullAdder is
 
 begin
 
-    c_out <= in_A xor in_B xor c_in;
+    sum <= in_A xor in_B xor c_in;
     c_out <= (in_A and in_B) or (c_in and in_A) or (c_in and in_B);
 
 end architecture dataflow;
-
-GEN_RES_LSB: for 0 to O_width - 1 generate
-    
-end generate GEN_RES_LSB;
